@@ -113,9 +113,8 @@
 				8E7B240D2A12769D0094ED81 /* AppDelegate.swift */,
 				8E7B240F2A12769D0094ED81 /* SceneDelegate.swift */,
 				8E7B24112A12769D0094ED81 /* ViewController.swift */,
-				8E7B24132A12769D0094ED81 /* Main.storyboard */,
 				8E7B24162A12769F0094ED81 /* Assets.xcassets */,
-				8E7B24182A12769F0094ED81 /* LaunchScreen.storyboard */,
+				8EE4A9032A13DE0700C2B64C /* Storyboard */,
 				8E7B241B2A12769F0094ED81 /* Info.plist */,
 			);
 			path = QuickAndNimble;
@@ -127,6 +126,15 @@
 				8E995BBB2A127955004EA10C /* QuickAndNimbleTests.swift */,
 			);
 			path = QuickAndNimbleTests;
+			sourceTree = "<group>";
+		};
+		8EE4A9032A13DE0700C2B64C /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				8E7B24132A12769D0094ED81 /* Main.storyboard */,
+				8E7B24182A12769F0094ED81 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
